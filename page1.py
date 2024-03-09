@@ -9,7 +9,6 @@ from page2 import SecondWindow
 class MainWindow(QMainWindow):
     """
     Main window class for the Stock Market Analysis application, 
-    showcasing key insights and trends from 2018 to 2028.
     """
     def __init__(self):
         super().__init__()
